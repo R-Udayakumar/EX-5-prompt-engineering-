@@ -1,7 +1,8 @@
 # PROMPT-ENGINEERING-2. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
-
+```
 NAME: Udayakumar R
 REG N0: 212222230163
+```
 
 ## 1. What is Prompting in Generative AI ?
 Prompting in Generative AI refers to the method of instructing a language model to produce a desired output by giving it specific input text. It acts as the guiding question or command that informs the model what task to perform or how to respond. There are various prompting techniques ranging from simple direct commands to complex, structured prompts for better control and accuracy. Prompting is crucial in controlling the quality, relevance, and depth of the AI-generated responses, especially in real-world applications like summarization, translation, or coding.
