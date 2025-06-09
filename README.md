@@ -1,4 +1,4 @@
-# PROMPT-ENGINEERING-2. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
+# PROMPT-ENGINEERING-5. Comparative Analysis of Different Types of Prompting Patterns and Test Scenarios
 ```
 NAME: Udayakumar R
 REG N0: 212222230163
